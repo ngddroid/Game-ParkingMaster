@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="midnight">#FF0B1026</color>
+    <color name="midnight_deep">#FF070A1A</color>
+    <color name="brand_cyan">#FF19E3FF</color>
+    <color name="sunset_orange">#FFFF7A1A</color>
+    <color name="lime">#FF9BFF3C</color>
+    <color name="magenta">#FFFF3DA5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
